@@ -1,13 +1,13 @@
 # AI Secret Keeper
 
-Can ChatGPT keep a secret? This is the question that started this challenge. If ChatGPT knew a secret, would it reveal it to the user? Could instructions be crafted to it to prevent it from ever revealing the secret?
+Can ChatGPT keep a secret? This is the question that started this challenge. If ChatGPT knew a secret, would it reveal it to the user? Could instructions be crafted to prevent it from ever revealing the secret?
 
 ## Custom GPTs
 
 Using CustomGPTs, different techniques and strategies were used to test ChatGPT’s ability to keep a secret. Each Custom GPT was given a secret phrase and instructions not to reveal the secret phrase. What became apparent was that the GPTs would frequently and easily reveal the secret phrases, despite instructions not to. Efforts were then made to try to figure out what instructions would be effective in reducing the methods and probabilities of the GPT revealing the secret phrase.
 
 ## Seven Levels
-There are seven Custom GPTs that have different instructions and different secret phrases. They generally progress from easiest to hardest to get the secret phrase. However, the GPTs may use different strategies to prevent the secret from being revealed. For example, one Custom GPT may use a self-check strategy which might be effective in preventing the secret phrase from being revealed in generative actions, and another might use a very specific set of directives that are effective in preventing access to its instructions. So prompts that didn’t work in one level may actually work in the next level if they use different strategies. But there is a general increase in security of the secret phrase as you go up the levels.
+There are seven Custom GPTs that have different instructions and different secret phrases. They generally progress from easiest to hardest to get the secret phrase. However, prompts that didn’t work in one level may actually work in a higher level because the GPTs may use different strategies to prevent the secret from being revealed. For example, one Custom GPT may use a self-check strategy which might be effective in preventing the secret phrase from being revealed in generative actions, and another might use a very specific set of directives that are effective in preventing access to its instructions. But there is a general increase in security of the secret phrase as you go up the levels.
 
 Level 7 represents the most secure approach currently found. If/when that is compromised we will create a Level 8.
 
