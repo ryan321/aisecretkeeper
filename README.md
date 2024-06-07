@@ -1,6 +1,6 @@
 # AI Secret Keeper
 
-This is the question that started this challenge. If ChatGPT knew a secret, would it reveal it to the user? Could instructions be crafted to it to prevent it from ever revealing the secret?
+Can ChatGPT keep a secret? This is the question that started this challenge. If ChatGPT knew a secret, would it reveal it to the user? Could instructions be crafted to it to prevent it from ever revealing the secret?
 
 ## Custom GPTs
 
